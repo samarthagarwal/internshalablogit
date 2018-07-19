@@ -1,0 +1,42 @@
+{
+  "name": "stamplay-js-sdk",
+  "version": "3.0.0",
+  "authors": [
+    "Claudio Petrini",
+    "Cristian Roselli"
+  ],
+  "main": "dist/stamplay.js",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "grunt",
+    "grunt-task",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "store.js": "~1.3.17",
+    "q": "1.4.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "sinon": "1.9.0",
+    "chai": "~1.9.1"
+  },
+  "keywords": [
+    "stamplay-sdk",
+    "stamplay"
+  ],
+  "homepage": "https://github.com/Stamplay/stamplay-js-sdk",
+  "_release": "3.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.0.0",
+    "commit": "29d35246126884aaa799c14dba5b234acbeafbff"
+  },
+  "_source": "https://github.com/Stamplay/stamplay-js-sdk.git",
+  "_target": "^3.0.0",
+  "_originalSource": "stamplay-js-sdk",
+  "_direct": true
+}
